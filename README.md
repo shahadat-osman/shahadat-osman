@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently pursuing my bachelor in computer science engineering at East Delta University
-- :muscle:
+🌱 I’m currently pursuing my bachelor in computer science engineering at East Delta University :muscle:
+- /play horror
 <!--
 **shahadat-mso/shahadat-mso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
