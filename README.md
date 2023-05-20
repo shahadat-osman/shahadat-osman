@@ -28,16 +28,16 @@
 
 <h3 align="left">🏁 Competitive Programming</h3>
 <p float="left">
-  <img height="195em" src="https://leetcard.jacoblin.cool/shahadat_osman?theme=light&font=Karma&ext=contest" />
-  <img height="195em" src="https://codeforces-readme-stats.vercel.app/api/card?username=shahadat.osman" />
+  <img height="195em" src="https://leetcard.jacoblin.cool/shahadat_osman?theme=dark&font=Karma&ext=contest" />
+  <img height="195em" src="https://codeforces-readme-stats.vercel.app/api/card?username=shahadat.osman&theme=dracula" />
 </p>
 
 <h3 align="left">📊 GitHub Statistics :</h3>
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-mso" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-mso&theme=dracula" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-mso&" alt="shahadat-mso" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-mso&theme=dracula" alt="shahadat-mso" />
 </p>
 
 
