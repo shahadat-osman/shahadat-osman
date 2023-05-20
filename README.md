@@ -28,8 +28,8 @@
 
 <h3 align="left">🏁 Competitive Programming</h3>
 <p float="left">
+  <img  src="https://codeforces-readme-stats.vercel.app/api/card?username=shahadat.osman&theme=dracula" />
   <img height="195em" src="https://leetcard.jacoblin.cool/shahadat_osman?theme=dark&font=Karma&ext=contest" />
-  <img height="195em" src="https://codeforces-readme-stats.vercel.app/api/card?username=shahadat.osman&theme=dracula" />
 </p>
 
 <h3 align="left">📊 GitHub Statistics :</h3>
