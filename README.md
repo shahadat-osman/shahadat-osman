@@ -26,48 +26,38 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<b>&#128200; Competitive Programming</b>
+<h3 align="left">🏁 Competitive Programming</h3>
 <p float="left">
   <img height="195em" src="https://leetcard.jacoblin.cool/shahadat_osman?theme=light&font=Karma&ext=contest" />
   <img height="195em" src="https://codeforces-readme-stats.vercel.app/api/card?username=shahadat.osman" />
 </p>
 
-<p><img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-mso&" alt="shahadat-mso" /></p>
+<h3 align="left">📊 GitHub Statistics :</h3>
+<p float="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-mso" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-mso&" alt="shahadat-mso" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-mso)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadat-mso&label=Profile%20views&color=0e75b6&style=flat" alt="shahadat-mso" /> </p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p left="center">
-  <a href="https://twitter.com/sudiptob2">
+  <a href="https://twitter.com/shahadat_mso">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a> 
-  <a href="https://www.linkedin.com/in/sudiptob2/">
+  <a href="https://www.linkedin.com/in/shahadat-osman-491995155/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
-  <a href="https://www.facebook.com/sudiptob2">
+  <a href="https://www.facebook.com/shahadat.ms">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
   </a>
-  <a href="https://www.facebook.com/sudiptob2">
+  <a href="https://stackoverflow.com/users/14873326/shahadat-osman">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" height=25>
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">💝 Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/shahadat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/shahadat" /></a></p><br><br>
