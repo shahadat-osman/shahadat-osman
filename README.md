@@ -8,19 +8,19 @@
 
 <h3 align="left">⏳ Online Judge Profiles:</h3>
 <p left="center">
-  <a href="https://www.codechef.com/users/shahadat_mso">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height=25 />
+  <a href="https://codeforces.com/profile/shahadat.osman">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" height=25 />
   </a>
-  <a href="https://www.codechef.com/users/shahadat_mso">
+  <a href="https://leetcode.com/shahadat_osman/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height=25 />
   </a>
   <a href="https://www.codechef.com/users/shahadat_mso">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" height=25 />
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height=25 />
   </a>
-  <a href="https://www.codechef.com/users/shahadat_mso">
+  <a href="https://www.hackerearth.com/@shahadat.osman">
     <img src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white" height=25 />
   </a>
-  <a href="https://www.codechef.com/users/shahadat_mso">
+  <a href="https://www.hackerrank.com/shahadat_osman">
     <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" height=25 />
   </a>
 </p>
