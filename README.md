@@ -35,9 +35,9 @@
 <h3 align="left">📊 GitHub Statistics :</h3>
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-mso&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-osman&theme=dracula" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-mso&theme=dracula" alt="shahadat-mso" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-osman&theme=dracula" alt="shahadat-osman" />
 </p>
 
 
