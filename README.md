@@ -45,10 +45,10 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p left="center">
-  <a href="https://twitter.com/shahadat_mso">
+  <a href="https://twitter.com/Shahadat_says">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a> 
-  <a href="https://www.linkedin.com/in/shahadat-osman-491995155/">
+  <a href="https://www.linkedin.com/in/shahadat-osman/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
   <a href="https://www.facebook.com/shahadat.ms">
