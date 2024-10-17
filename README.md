@@ -11,7 +11,7 @@
   <a href="https://codeforces.com/profile/shahadat_osman">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" height=25 />
   </a>
-  <a href="https://leetcode.com/shahadat_osman/">
+  <a href="https://leetcode.com/shahadat_o/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height=25 />
   </a>
   <a href="https://www.codechef.com/users/shahadat_mso">
@@ -29,7 +29,7 @@
 <h3 align="left">🏁 Competitive Programming</h3>
 <p float="left">
   <img height="225em" src="https://codeforces-readme-stats.vercel.app/api/card?username=shahadat_osman&theme=dracula" />
-  <img height="200em" src="https://leetcard.jacoblin.cool/shahadat_osman?theme=dark&font=Karma&ext=contest" />
+  <img height="200em" src="https://leetcard.jacoblin.cool/shahadat_o?theme=dark&font=Karma&ext=contest" />
 </p>
 
 <h3 align="left">📊 GitHub Statistics :</h3>
