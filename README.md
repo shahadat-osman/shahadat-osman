@@ -29,7 +29,7 @@
 <h3 align="left">🏁 Competitive Programming</h3>
 <p float="left">
   <img height="290em" src="https://codeforces-readme-stats.vercel.app/api/card?username=shahadat_osman&theme=gruvbox_light&disable_animations=false&show_icons=false&force_username=true" />
-  <img height="290em" src="https://leetcard.jacoblin.cool/shahadat_o?theme=unicorn&font=Fira%20Code&ext=heatmap" />
+  <img height="290em" src="https://leetcard.jacoblin.cool/shahadat_osman?theme=unicorn&font=Fira%20Code&ext=heatmap" />
 </p>
 
 <h3 align="left">📊 GitHub Statistics :</h3>
