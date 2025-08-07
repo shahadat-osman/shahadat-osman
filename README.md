@@ -11,10 +11,10 @@
   <a href="https://codeforces.com/profile/shahadat_osman">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" height=25 />
   </a>
-  <a href="https://leetcode.com/shahadat_o/">
+  <a href="https://leetcode.com/shahadat_osman/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height=25 />
   </a>
-  <a href="https://www.codechef.com/users/shahadat_mso">
+  <a href="https://www.codechef.com/users/shahadat_osman">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height=25 />
   </a>
   <a href="https://www.hackerearth.com/@shahadat.osman">
